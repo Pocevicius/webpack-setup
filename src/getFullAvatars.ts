@@ -1,5 +1,5 @@
-import { avatar } from "./avatars.js";
-import { sword } from "./weapons";
+import { avatar } from "./components/avatar/avatars";
+import { sword } from "./components/weapons/weapons";
 
 const getFullAvatars = () => {
   console.log(avatar);

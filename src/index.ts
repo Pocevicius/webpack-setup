@@ -1,6 +1,6 @@
 import getFullAvatars from "./getFullAvatars";
-
-console.log("viskas veikia");
+import "./styles.sass"
+console.log("working");
 getFullAvatars();
 
 const first = { a: 1, b: 2 };
